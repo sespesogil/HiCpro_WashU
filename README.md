@@ -1,2 +1,4 @@
 # HiCpro_WashU
-Script to transform HiC-Pro results to visual pairwise interactions in WashU epigenome browser. 
+Utility to transform HiC-Pro results to visual pair-wise interactions in WashU epigenome browser. 
+
+Available soon
