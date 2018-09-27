@@ -9,9 +9,9 @@ Utility to transform HiC-Pro (https://github.com/nservant/HiC-Pro) results to vi
 
 ```./HiCpro_WashU matrix_file abs_bedfile```
 
-'''matrix_file''' =  matrix HiC-Pro output (path+file) 
+```matrix_file``` =  matrix HiC-Pro output (path+file) 
 
-'''abs_bedfile''' = abs HiC-pro output (path+file) 
+```abs_bedfile``` = abs HiC-pro output (path+file) 
 
 Both matrix and abs.bedfile require to have the same resolution
 
