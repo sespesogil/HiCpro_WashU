@@ -13,6 +13,6 @@ Utility to transform HiC-Pro (https://github.com/nservant/HiC-Pro) results to vi
 
 ```abs_bedfile``` = abs HiC-pro output (path+file) 
 
-Both matrix and abs.bedfile require to have the same resolution
+Both matrix and abs.bedfile require to have the same HiC resolution
 
 
