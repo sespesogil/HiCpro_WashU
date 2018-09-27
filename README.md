@@ -16,4 +16,7 @@ Utility to transform HiC-Pro (https://github.com/nservant/HiC-Pro) results to vi
 
 Both matrix and abs.bedfile require to have the same HiC resolution
 
+Resulting files ```*.bed.gz``` and ```*.bed.tbi``` must be moved to a web server to be linked to the pair-wise entry in WashU Epigenome browser
+(http://epigenomegateway.wustl.edu/browser/)
+
 
