@@ -3,9 +3,8 @@ Utility to transform HiC-Pro (https://github.com/nservant/HiC-Pro) results to vi
 
 # Required dependencies
 
-R version (3.3.1)
-Samtools 1.1
-
+- R version > v3.3.1
+- Samtools > v1.1
 # Usage 
 
 ```./HiCpro_WashU matrix_file abs_bedfile```
