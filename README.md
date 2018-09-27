@@ -1,6 +1,7 @@
 # HiCpro-WashU
 Utility to transform HiC-Pro (https://github.com/nservant/HiC-Pro) results to visual pair-wise interactions in WashU epigenome browser. 
-![alt text](https://xespes10.u.hpc.mssm.edu/images/Untitled-1.png)
+
+![alt text](https://xespes10.u.hpc.mssm.edu/images/schematicview.png)
 # Required dependencies
 
 - R version > v3.3.1
