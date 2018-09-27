@@ -7,4 +7,4 @@ R version (3.3.1)
 
 # Usage 
 
->./HiCpro_WashU matrix_file abs_bedfile
+```./HiCpro_WashU matrix_file abs_bedfile```
