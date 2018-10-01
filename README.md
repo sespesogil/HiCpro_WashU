@@ -8,7 +8,7 @@ Utility to transform HiC-Pro (https://github.com/nservant/HiC-Pro) results to vi
 - Samtools > v1.1
 # Usage 
 
-```./HiCpro_WashU matrix_file abs_bedfile```
+```./HiCpro_WashU.sh matrix_file abs_bedfile```
 
 ```matrix_file``` =  matrix HiC-Pro output (path+file) 
 
